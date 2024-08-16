@@ -14,7 +14,7 @@ print("\u001b[35m NA HACK KANA GAR IYAK KNA")
 time.sleep(5)
 print("Loading.......")
 os.system("clear")
-os.system("xdg-open 
+os.system("xdg-open")
 
 #### Login       
 
